@@ -1,4 +1,4 @@
-##**1 here we can read the difference between https1 vs https2**
+##**1 here we can read the difference between http1 vs http2**
 
 
 
